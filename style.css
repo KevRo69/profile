@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
-  background-color: #ffffffb5;
+  background-color: #fff3f9;
   font-family: "Montserrat", sans-serif;
   color: #173b45;
 }
@@ -65,7 +65,7 @@ ul {
 
 /* class */
 .card {
-  background-color: #f8dcdc;
+  background-color: #f4cece;
   padding: 16px 16px 32px 16px;
   width: 800px;
   margin: 32px auto;
